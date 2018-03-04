@@ -32,8 +32,7 @@ Dies kann entweder direkt vor Ort während des Events am Frontdesk geschehen,
 oder per E-Mail (anonym) an graz18@linuxtage.at. Vielen Dank für deine Hilfe,
 damit die Grazer Linuxtage für alle Beteiligten ein Erfolg und eine schöne,
 belästigungsfreie Erfahrung wird. Bitte bringe etwaige Bedenken sofort dem
-Linuxtage Team zur Kenntnis.Dies kann entweder direkt vor Ort während des
-Events am Frontdesk geschehen, oder per E-Mail (anonym) an graz18@linuxtage.at
+Linuxtage Team zur Kenntnis.
 
 4. Der Veranstalter behält sich das Recht vor, Personen, die gegen diese
    Richtlinien verstoßen und nicht der Aufforderung nachkommen, sein/ihr
@@ -41,9 +40,9 @@ Events am Frontdesk geschehen, oder per E-Mail (anonym) an graz18@linuxtage.at
    Veranstaltung einmalig oder dauerhaft auszuschließen.
 
 Von Teilnehmern, die gebeten werden, jegliches inakzeptable Verhalten zu
-stoppen, wird erwartet dieser Bitte nachzukommen. Konferenzteilnehmer, die
+stoppen, wird erwartet, dieser Bitte nachzukommen. Konferenzteilnehmer, die
 gegen diesen Verhaltenskodex verstoßen, können von der Konferenz ausgeschlossen
-und / oder von einer formellen Teilnahme an zukünftigen Veranstaltungen
+und/oder von einer formellen Teilnahme an zukünftigen Veranstaltungen
 ausgeschlossen werden.
 
 5. Vielen Dank für deine Mithilfe, dass die GLT eine schöne Erfahrung für alle
