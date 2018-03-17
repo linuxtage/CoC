@@ -1,7 +1,7 @@
 Grazer Linuxtage - Code of Conduct
 ==================================
 
-1. Jeder ist willkommen; Auch Menschen, die andere Standpunkte vertreten
+1. Jeder ist willkommen; auch Menschen, die andere Standpunkte vertreten.
 
 Um die Grazer Linuxtage für alle Beteiligten unterhaltsam, interessant und
 positiv zu gestalten, erwarten wir von den Teilnehmenden, dass sie den folgenden
@@ -14,7 +14,7 @@ Gemeinschaft haben keine Auswirkungen auf das Recht, respektiert zu werden oder
 die Pflicht, andere zu respektieren.
 
 2. Wir sind respektvoll zueinander und nehmen Rücksicht auf die Bedürfnisse
-   anderer; auch in Online-Communities und sozialen Medien
+   anderer; auch in Online-Communities und sozialen Medien.
 
 Bitte sei hilfsbereit, rücksichtsvoll, freundlich und respektvoll gegenüber
 allen anderen Teilnehmenden und respektiere deine Umwelt. Wir dulden keine
@@ -26,7 +26,7 @@ verwandten Online-Communities und sozialen Medien.
 
 3. Belästigung oder Mobbing ist unerwünscht und kann (auch anonym) an den
    Veranstalter gemeldet werden. Hinweise nehmen wir gerne persönlich oder
-   online unter graz18@linuxtage.at entgegen
+   online unter graz18@linuxtage.at entgegen.
 
 Dies kann entweder direkt vor Ort während des Events am Frontdesk geschehen,
 oder per E-Mail (anonym) an graz18@linuxtage.at. Vielen Dank für deine Hilfe,
