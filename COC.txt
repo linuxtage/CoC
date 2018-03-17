@@ -31,8 +31,8 @@ verwandten Online-Communities und sozialen Medien.
 Dies kann entweder direkt vor Ort während des Events am Frontdesk geschehen,
 oder per E-Mail (anonym) an graz18@linuxtage.at. Vielen Dank für deine Hilfe,
 damit die Grazer Linuxtage für alle Beteiligten ein Erfolg und eine schöne,
-belästigungsfreie Erfahrung wird. Bitte bringe etwaige Bedenken sofort dem
-Linuxtage Team zur Kenntnis.
+belästigungsfreie Erfahrung wird. Bitte bringe etwaige Bedenken dem Linuxtage
+Team sobald als möglich vor, damit wir zeitnah darauf reagieren können.
 
 4. Der Veranstalter behält sich das Recht vor, Personen, die gegen diese
    Richtlinien verstoßen und nicht der Aufforderung nachkommen, sein/ihr
