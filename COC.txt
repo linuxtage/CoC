@@ -24,15 +24,15 @@ Konferenz und damit verbundenen Veranstaltungen befolgen. Dies umfasst auch
 veranstaltungsbezogene soziale Veranstaltungen an externen Standorten sowie in
 verwandten Online-Communities und sozialen Medien.
 
-3. Belästigung oder Mobbing ist unerwünscht und kann (auch anonym) an den
-   Veranstalter gemeldet werden. Hinweise nehmen wir gerne persönlich oder
-   online unter graz18@linuxtage.at entgegen.
+3. Belästigung oder Mobbing ist unerwünscht und Hinweise nehmen wir auf
+   verschiedene Weisen gerne entgegen.
 
-Dies kann entweder direkt vor Ort während des Events am Frontdesk geschehen,
-oder per E-Mail (anonym) an graz18@linuxtage.at. Vielen Dank für deine Hilfe,
-damit die Grazer Linuxtage für alle Beteiligten ein Erfolg und eine schöne,
-belästigungsfreie Erfahrung wird. Bitte bringe etwaige Bedenken dem Linuxtage
-Team sobald als möglich vor, damit wir zeitnah darauf reagieren können.
+Im Falle eines Vorfalls, nehmen wir Hinweise per E-mail (auch anonym) an
+graz18@linuxtage.at oder direkt vor Ort während des Events am Frontdesk
+entgegen. Bitte bringe etwaige Bedenken dem Linuxtage Team sobald als
+möglich vor, damit wir zeitnah darauf reagieren können. Wir wünschen uns,
+dass die Grazer Linuxtage für alle Beteiligten eine einladende Veranstaltung
+bleiben.
 
 4. Der Veranstalter behält sich das Recht vor, Personen, die gegen diese
    Richtlinien verstoßen und nicht der Aufforderung nachkommen, sein/ihr
@@ -46,9 +46,9 @@ und/oder von einer formellen Teilnahme an zukünftigen Veranstaltungen
 ausgeschlossen werden.
 
 5. Vielen Dank für deine Mithilfe, dass die GLT eine schöne Erfahrung für alle
-   Teilnehmende sind.
+   Teilnehmenden sind.
 
-Um eine einladende und offene Gemeinschaft zu fördern setzen wir uns für
+Um eine einladende und offene Gemeinschaft zu fördern, setzen wir uns für
 vorbildhaftes Verhalten aller GLT-Teilnehmenden ein. Vielen Dank für deine Hilfe,
 damit die Grazer Linuxtage für alle Beteiligten ein Erfolg und eine schöne,
 belästigungsfreie Erfahrung wird.
