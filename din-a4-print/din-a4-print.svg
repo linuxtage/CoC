@@ -4418,8 +4418,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.6211148"
-     inkscape:cx="374.57238"
-     inkscape:cy="392.14437"
+     inkscape:cx="288.21206"
+     inkscape:cy="216.95628"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -4428,9 +4428,9 @@
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1031"
+     inkscape:window-height="1017"
      inkscape:window-x="0"
-     inkscape:window-y="25"
+     inkscape:window-y="34"
      inkscape:window-maximized="1"
      inkscape:snap-global="true">
     <sodipodi:guide
@@ -4729,7 +4729,7 @@
          style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:15px;line-height:1.25;font-family:TitilliumMaps29L;-inkscape-font-specification:'TitilliumMaps29L Ultra-Bold'"
          id="flowPara4478">5. Vielen Dank für deine Mithilfe, dass die GLT eine schöne Erfahrung für alle Teilnehmenden sind.</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:1.25;font-family:TitilliumMaps29L;-inkscape-font-specification:TitilliumMaps29L"
-         id="flowPara4480">Um eine einladende und offene Gemeinschaft zu fördern, setzen wir uns für vorbildhaftes Verhalten aller GLT-Teilnehmenden ein. Vielen Dank für deine Hilfe, damit die Grazer Linuxtage für alle Beteiligten ein Erfolg und eine schöne, belästigungsfreie Erfahrung wird.</flowPara><flowPara
+         id="flowPara4480">Um eine einladende und offene Gemeinschaft zu fördern, setzen wir uns für vorbildhaftes Verhalten aller GLT-Teilnehmenden ein. Vielen Dank für deine Hilfe, damit die Grazer Linuxtage für alle Beteiligten ein Erfolg und eine schöne, belästigungsfreie Erfahrung werden.</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:1.25;font-family:TitilliumMaps29L;-inkscape-font-specification:TitilliumMaps29L"
          id="flowPara4482" /></flowRoot>    <flowRoot
        xml:space="preserve"
@@ -4744,5 +4744,5 @@
            y="1150.0677"
            style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:1.25;font-family:TitilliumMaps29L;-inkscape-font-specification:TitilliumMaps29L;text-align:center;text-anchor:middle"
-         id="flowPara24435">Version 36bf501</flowPara></flowRoot>  </g>
+         id="flowPara24435">Version cc8d1f2</flowPara></flowRoot>  </g>
 </svg>
