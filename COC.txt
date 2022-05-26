@@ -1,15 +1,15 @@
 Grazer Linuxtage - Code of Conduct
 ==================================
 
-1. Jeder ist willkommen; auch Menschen, die andere Standpunkte vertreten.
+1. Du bist willkommen; Auch als Mensch mit anderen Standpunkten.
 
 Um die Grazer Linuxtage für alle Beteiligten unterhaltsam, interessant und
 positiv zu gestalten, erwarten wir von den Teilnehmenden, dass sie den folgenden
 Richtlinien/Verhaltensregeln folgen. Die Grazer Linuxtage möchten eine freie,
 offene und kooperative Veranstaltung sein. Dies bedeutet, dass wir die
 Zusammenarbeit aller Teilnehmenden erwarten und dass sich alle respektvoll
-gegenüber allen anderen verhalten, einschließlich derer, die anders sind oder
-anders denken als du selbst. Technische Fertigkeiten und die Stellung in der
+gegenüber Allen verhalten, einschließlich derer, die anders sind oder
+anders denken als sie selbst. Technische Fertigkeiten und die Stellung in der
 Gemeinschaft haben keine Auswirkungen auf das Recht, respektiert zu werden oder
 die Pflicht, andere zu respektieren.
 
@@ -17,24 +17,27 @@ die Pflicht, andere zu respektieren.
    anderer; auch in Online-Communities und sozialen Medien.
 
 Bitte sei hilfsbereit, rücksichtsvoll, freundlich und respektvoll gegenüber
-allen anderen Teilnehmenden und respektiere deine Umwelt. Wir dulden keine
-Belästigung oder anstößiges Verhalten im Zuge unserer Veranstaltung. Wir
+allen Teilnehmenden und respektiere deine Umwelt. Wir
 erwarten von allen Teilnehmenden, dass sie diesen Verhaltenskodex während der
 Konferenz und damit verbundenen Veranstaltungen befolgen. Dies umfasst auch
 veranstaltungsbezogene soziale Veranstaltungen an externen Standorten sowie in
 verwandten Online-Communities und sozialen Medien.
 
-3. Belästigung oder Mobbing ist unerwünscht und Hinweise nehmen wir auf
-   verschiedene Weisen gerne entgegen.
+3. Belästigung, Mobbing oder Diskriminierung ist inakzeptabel
+   und Hinweise nehmen wir gerne entgegen.
 
-Im Falle eines Vorfalls, nehmen wir Hinweise per E-mail (auch anonym)
-oder direkt vor Ort während des Events am Frontdesk entgegen. Bitte bringe
-etwaige Bedenken dem Linuxtage Team sobald als möglich vor, damit wir zeitnah
-darauf reagieren können. Wir wünschen uns, dass die Grazer Linuxtage für alle
-Beteiligten eine einladende Veranstaltung bleiben.
+Im Falle eines Vorfalls, nehmen wir Hinweise per E-mail (auch anonym) entgegen,
+wende dich gerne auch an den nächsten Engel. Bitte bringe etwaige Bedenken
+dem Linuxtage Team sobald als möglich vor, damit wir zeitnah darauf reagieren
+können. Wir wünschen uns, dass die Grazer Linuxtage für alle Beteiligten eine
+einladende Veranstaltung bleiben.
+Falls du ein inakzeptables Verhalten beobachtest, unterstütze die betroffene
+Person.
+Engel erkennst du an orangen T-Shirts und Lanyards mit deren Namen und
+Linuxtage-Logo.
 
-4. Der Veranstalter behält sich das Recht vor, Personen, die gegen diese
-   Richtlinien verstoßen und nicht der Aufforderung nachkommen, sein/ihr
+4. Die Grazer Linuxtage behälten sich das Recht vor, Personen, die gegen diese
+   Richtlinien verstoßen und nicht der Aufforderung nachkommen, inakzeptables
    Verhalten zu ändern und sich an den Verhaltenskodex zu halten - von der
    Veranstaltung einmalig oder dauerhaft auszuschließen.
 
@@ -48,6 +51,6 @@ ausgeschlossen werden.
    Teilnehmenden sind.
 
 Um eine einladende und offene Gemeinschaft zu fördern, setzen wir uns für
-vorbildhaftes Verhalten aller GLT-Teilnehmenden ein. Vielen Dank für deine Hilfe,
-damit die Grazer Linuxtage für alle Beteiligten ein Erfolg und eine schöne,
-belästigungsfreie Erfahrung werden.
+vorbildhaftes Verhalten aller GLT-Teilnehmenden ein. Vielen Dank für deine
+Hilfe, damit die Grazer Linuxtage für alle Beteiligten ein Erfolg und eine
+schöne, belästigungsfreie Erfahrung werden.
